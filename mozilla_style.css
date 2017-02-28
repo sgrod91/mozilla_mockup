@@ -1,0 +1,151 @@
+#top_navbar {
+	position: absolute;
+	height: 50px;
+	width: 100%;
+	background-color: #D7332A;
+}
+
+#top_navbar text {
+	color: white;
+}
+
+#top_navbar img {
+	padding-left: 250px;
+}
+
+#banner1 {
+	background: url(background1.png);
+	background-size: cover;
+	height: 700px;
+}
+
+#banner1 h1 {
+	text-align: center;
+	padding-top: 200px;
+	font-size: 80px;
+	font-family: 'Architects Daughter', sans-serif;
+	color: #2762a9;
+	font-weight: bold;
+}
+
+#banner1 h3 {
+	text-align: center;
+	font-size: 30px;
+	color: #2762a9;
+}
+
+#rightheader {
+	float: right;
+	word-spacing: 12px;
+	/*padding-top: 15px;*/
+	padding-right: 250px;
+	/*margin-top: 5px;*/
+}
+#download {
+	background-color: #57B03F;
+	display: inline-block;
+	word-spacing: none;
+	border: 15px solid #57B03F
+}
+
+#innovations {
+	background-color: #38807F;
+	color: white;
+	text-align: center;
+	font-size: 18px;
+}
+
+#impact_innovations {
+	text-align: center;
+	background-color: white;
+	font-size: 18px;
+	padding-top: 20px;
+
+}
+
+.list_items {
+	text-align: left;
+	padding-left: 240px;
+	padding-top: 30px;
+	text-decoration: underline;
+}
+/*.list_items:nth-child(n+1):nth-child(-n+3){
+	color: blue;
+}*/
+
+.list_items img {
+	margin: 20px;
+
+}
+.logos {
+	padding-top: 50px;
+}
+
+#moz_scene {
+	background: url(background2.png);
+	background-size: cover;
+	height: 1200px;
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Fira Sans', sans-serif;
+}
+
+#moz_scene img {
+	margin-top: 85px;
+}
+
+#get_firefox {
+	background-color: #2C253B;
+	height: 300px;
+	color: white;
+	font-size: 30px;
+	/*font-weight: bold;*/
+	line-height: 100px;
+}
+
+#white_bar {
+	background-color: #F5F5F5;
+	height: 300px;
+	text-align: center;
+	padding-left: 100px;
+	padding-right: 100px;
+
+}
+
+#white_bar img {
+	margin-top: 70px;
+}
+
+#red_bar {
+	background-color: red;
+	height: 300px;
+	color: white;
+
+	margin-bottom: 1px;
+}
+
+#love_web {
+	display: inline-block;
+	vertical-align: middle;
+	padding-top: 55px;
+}
+
+#red_bar img {
+	padding-top: 60px;
+}
+
+input {
+	width: 300px;
+	border-radius: 5px;
+	/*display: inline;*/
+}
+
+button {
+
+	width: 300px;
+  
+
+}
+Add Comment
